@@ -2,13 +2,12 @@
 
 ---
 
-### Theou Jeffine
+# Theou Jeffine
 
 **MSc AI Engineering (Autonomous Systems) · THI Ingolstadt**
 
 ![Location](https://img.shields.io/badge/Munich%2C%20Germany-085041?style=flat-square&logoColor=white)
-![Status](https://img.shields.io/badge/Open%20to%20Werkstudent%20%2F%20Internship-1D9E75?style=flat-square&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS%20Certified-232F3E?style=flat-square&logo=amazonaws&logoColor=white)
+![University](https://img.shields.io/badge/THI%20Ingolstadt-1D9E75?style=flat-square&logoColor=white)
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](YOUR_LINKEDIN_URL)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:YOUR_EMAIL)
@@ -49,13 +48,13 @@ I build end-to-end intelligent systems — from model research to cloud-deployed
 
 ## Highlights
 
-> **Published research** — CNN-based medical image classification · VIT internship · TensorFlow · CNN
+> 📄 **Published research** — CNN-based medical image classification · VIT internship · TensorFlow · CNN
 
-> **HANet** — CycleGAN satellite image dehazing system · PyTorch · OpenCV
+> 🛰️ **HANet** — CycleGAN satellite image dehazing system · PyTorch · OpenCV
 
-> **Neural engine in C++** — Full neural network from scratch, no frameworks · C++
+> ⚙️ **Neural engine in C++** — Full neural network from scratch, no frameworks
 
-> **3 live products** — End-to-end freelance AI + full-stack deployments · React · Firebase · AWS
+> 🚀 **3 live products** — End-to-end freelance AI + full-stack deployments · React · Firebase · AWS
 
 ---
 
@@ -70,9 +69,13 @@ I build end-to-end intelligent systems — from model research to cloud-deployed
 
 ## Connect
 
+<div align="center">
+
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](YOUR_LINKEDIN_URL)
 [![Email](https://img.shields.io/badge/Email-Say%20hello-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:YOUR_EMAIL)
 [![Resume](https://img.shields.io/badge/Resume-View-4285F4?style=flat-square&logo=googledrive&logoColor=white)](YOUR_RESUME_URL)
+
+</div>
 
 ---
 
