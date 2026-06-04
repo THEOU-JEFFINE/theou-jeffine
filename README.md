@@ -12,7 +12,6 @@
 [![Email](https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:jefftheou@gmail.com)
 [![Resume](https://img.shields.io/badge/Resume-4285F4?style=flat-square&logo=googledrive&logoColor=white)](YOUR_RESUME_URL)
 
----
 
 </div>
 
