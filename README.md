@@ -1,6 +1,5 @@
 <div align="center">
 
----
 
 # Theou Jeffine
 
@@ -9,8 +8,8 @@
 ![Location](https://img.shields.io/badge/Munich%2C%20Germany-085041?style=flat-square&logoColor=white)
 ![University](https://img.shields.io/badge/THI%20Ingolstadt-1D9E75?style=flat-square&logoColor=white)
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](YOUR_LINKEDIN_URL)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:YOUR_EMAIL)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/theoujeffine/)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:jefftheou@gmail.com)
 [![Resume](https://img.shields.io/badge/Resume-4285F4?style=flat-square&logo=googledrive&logoColor=white)](YOUR_RESUME_URL)
 
 ---
@@ -28,7 +27,7 @@ I build end-to-end intelligent systems — from model research to cloud-deployed
 - 3 live freelance products shipped end-to-end
 - AWS Certified Solutions Architect · IBM Data Science Professional
 
----
+
 
 ## Tech stack
 
@@ -44,7 +43,7 @@ I build end-to-end intelligent systems — from model research to cloud-deployed
 **Web**
 `React` `Next.js` `Node.js` `REST APIs`
 
----
+
 
 ## Highlights
 
@@ -56,7 +55,7 @@ I build end-to-end intelligent systems — from model research to cloud-deployed
 
 > 🚀 **3 live products** — End-to-end freelance AI + full-stack deployments · React · Firebase · AWS
 
----
+
 
 ## Currently
 
@@ -65,19 +64,20 @@ I build end-to-end intelligent systems — from model research to cloud-deployed
 - Seeking **Werkstudent / Internship** in **Munich** (AI · Robotics · Software)
 - Learning German (B1 target)
 
----
 
-## Connect
+
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](YOUR_LINKEDIN_URL)
-[![Email](https://img.shields.io/badge/Email-Say%20hello-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:YOUR_EMAIL)
+## Connect
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/theoujeffine/)
+[![Email](https://img.shields.io/badge/Email-Say%20hello-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:jefftheou@gmail.com)
 [![Resume](https://img.shields.io/badge/Resume-View-4285F4?style=flat-square&logo=googledrive&logoColor=white)](YOUR_RESUME_URL)
 
 </div>
 
----
+
 
 <div align="center">
 <sub>Building at the edge of autonomous intelligence · open to collaborate</sub>
